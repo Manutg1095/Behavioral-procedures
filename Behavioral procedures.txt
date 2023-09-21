@@ -1,0 +1,18 @@
+Behavioral procedures
+After recovery, rats were randomly assigned to either vehicle or scopolamine group, for each experiment. On Day 0, rats were waterdeprived
+overnight and on the next day (Day 1) at 10:00 am they were placed in the training chamber, located in a separate room and
+consisting of a polycarbonate cage (26 × 48 × 20 cm) with 10 marked 3 mL-drinking burettes (5 drinking burettes at each side of the box, and
+distributed evenly). All rats were allowed to drink water for 10 min. This drinking session was repeated at 4 pm. The procedures for Day 2 were
+identical to that of Day 1. These first four exposures to the training chamber served to acclimate rats to the drinking schedule and to
+habituate them to the context in which the conditioning and testing was to be performed. Analysis of water intake of Day 1, Day 2 and Day 4 -for
+which procedures were identical- showed that by Day 2, fluid consumption had stabilized (Suppl. Fig. 1).
+Also, from days 0–2, every rat was handled for five minutes each, in the conditioning room, with the infusion pump set to “ON” and during
+this procedure, animals had their stylets gently removed and put back in place, in order to habituate them to the infusion procedure of Day 3 (or
+Day 5 for the retrieval experiments). On the morning of Day 3 (Acquisition), the water from the drinking burettes was replaced with a 0.1 %
+(w./vol.) sodium saccharin solution (Sigma-Aldrich Co.) and after the 10 min-drinking session, rats received an injection of LiCl i.p. (0.15 M, 2%
+b. w.). On the afternoon of day 3, five burettes were filled with water while the other five, alternated in a semi-random fashion, were filled
+with the saccharin solution in order to perform a short-term memory (STM) test. The procedure on Day 4 was identical to that of the first two
+days. On Day 5 in the morning, animals were placed in the training chamber with 5 burettes containing water and the remaining 5 containing
+saccharin to evaluate long-term memory (LTM). The saccharin preference index (P.I.) was obtained for STM and LTM tests with the
+following formula: 100 x saccharin (mL)/total fluid intake (mL). Please refer to Fig. 1 for a schematic representation of the experimental
+procedures.
